@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "mongoose": "^8.10.2"
-  },
-  "scripts": {
-      "dev": "node nodejs_training/app.js"
-    },
-    "type": "module"
-}
